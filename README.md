@@ -1,6 +1,6 @@
 #  腾讯OAuth快捷认证
 
-> ###开放平台文档给出了两种认证方式, `Authorization_Code`和`Implicit_Grant`.
+> ### 开放平台文档给出了两种认证方式, `Authorization_Code`和`Implicit_Grant`.
 
 - #### Authorization_Code  
   又称Web Server Flow； 适用于需要从web server访问的应用，例如Web网站。  
