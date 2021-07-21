@@ -127,4 +127,4 @@ def init_ui()->str:
     return ctx.call("guid")
 
 if __name__ == "__main__":
-    print(get_gtk("L1sJ-zhMTF-OC7AYqESY*9lzuhPXksZYB5UzHD4xn5I_")=="1323152431")
+    pass
